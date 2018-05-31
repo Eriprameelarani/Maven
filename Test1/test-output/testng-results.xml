@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20778" started-at="2018-05-31T12:23:10Z" finished-at="2018-05-31T12:23:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20778" started-at="2018-05-31T12:23:10Z" finished-at="2018-05-31T12:23:30Z">
+      <class name="MavenTest.Test1.Test_launch">
+        <test-method status="PASS" signature="firstSearchResultIsRelatedTest()[pri:0, instance:MavenTest.Test1.Test_launch@42e26948]" name="firstSearchResultIsRelatedTest" duration-ms="20760" started-at="2018-05-31T17:53:10Z" finished-at="2018-05-31T17:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstSearchResultIsRelatedTest -->
+      </class> <!-- MavenTest.Test1.Test_launch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
